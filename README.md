@@ -2,10 +2,12 @@
 
 This is my new GitHub account, created after my previous one — lxmliu2002 — was flagged due to frequent changes.
 
-<p align="left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=LumenLiu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LumenLiu&hide_border=true&langs_count=3"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=LumenLiu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumenLiu&hide_border=true&langs_count=3" /></td>
+  </tr>
+</table>
 
 - 🎓 Graduate from Nankai University.
 - 💼 Intern at Ant Group.
